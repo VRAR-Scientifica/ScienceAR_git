@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 0878b83e3f493134b859b43cf5fe432d
+  - enabled: 1
+    path: Assets/Scenes/AR_Scene_new.unity
+    guid: 9095bd989a984c642a0872e0577e1165
+  - enabled: 1
+    path: Assets/Scenes/New_physics_scene.unity
+    guid: cdebe68e34fbc68488484bb6eb0e2b37
+  - enabled: 1
+    path: Assets/Scenes/ChemScene.unity
+    guid: 5576a7fc2abfe12439ed58755b316f96
+  - enabled: 1
+    path: Assets/Scenes/BioScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Support_scene.unity
+    guid: 6b935353e16852f41aa972e59f46e45c
+  - enabled: 1
+    path: Assets/Scenes/Info_scene_new.unity
+    guid: b73dab8759e5b8d49b406625c6bb0786
+  - enabled: 1
+    path: Assets/Scenes/contact_scne.unity
+    guid: 41a18aac18b24534c923f054ed775198
+  - enabled: 1
+    path: Assets/Scenes/Donate_scne.unity
+    guid: 24aa1bc579d254f48b52f2be78ade56d
+  - enabled: 1
+    path: Assets/Scenes/Our_team_scene.unity
+    guid: a38432d34637a9f4882be2dac03783d1
+  m_configObjects: {}
